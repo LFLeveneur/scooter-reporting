@@ -1,11 +1,11 @@
 # vehicle-report
- Site de signalement de véhicule troopy
+ Site de signalement de véhicule
 
 # Introduction
 
-Ce readme décrit le fonctionnement du formulaire de signalement de véhicule troopy. Vous y trouverez la Stack, les dependencies et les API interne et externe utilisés dans ce projet.
+Ce readme décrit le fonctionnement du formulaire de signalement de véhicule. Vous y trouverez la Stack, les dependencies et les API interne et externe utilisés dans ce projet.
 
-Ce formulaire a pour but de recevoir les signalements des riverains lorsqu'ils rencontrent des véhicules troopy qui bloquent la circulation, mettent en danger des personnes, etc.
+Ce formulaire a pour but de recevoir les signalements des riverains lorsqu'ils rencontrent des véhicules qui bloquent la circulation, mettent en danger des personnes, etc.
 
 Pour ce faire, nous utiliserons l'API Slack pour recevoir les réclamations, et un formulaire permettant aux personnes de soumettre des réclamations.
 
